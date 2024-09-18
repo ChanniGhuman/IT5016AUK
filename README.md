@@ -6,6 +6,7 @@ collect_user_data: collects user information (name, age, email) and assigns a un
 calculate_total_amount: calculates the total amount of an order by prompting the user to input item names and prices.
 categorize_request: categorizes the order based on the total amount and provides a recommendation.
 create_detailed_report: generates a detailed report containing user information, order details, and recommendations.
+
 Code Structure
 
 The code is structured into five functions:
